@@ -1,0 +1,15 @@
+:root{
+    --colorMain: #F7542E;
+}
+
+
+.button{
+    width: 100px;
+    height: 40px;
+    cursor: pointer;
+    border: none;
+    border-radius: 5px;
+    color: white;
+
+    background-color: var(--colorMain);
+}
